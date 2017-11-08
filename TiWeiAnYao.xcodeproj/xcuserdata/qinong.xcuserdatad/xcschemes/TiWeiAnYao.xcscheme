@@ -17,7 +17,7 @@
                BlueprintIdentifier = "FE7A4E781ED3D147008A9A5C"
                BuildableName = "TiWeiAnYao.app"
                BlueprintName = "TiWeiAnYao"
-               ReferencedContainer = "container:TiWeiAnYao.xcodeproj">
+               ReferencedContainer = "container:Framework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "FE7A4E781ED3D147008A9A5C"
             BuildableName = "TiWeiAnYao.app"
             BlueprintName = "TiWeiAnYao"
-            ReferencedContainer = "container:TiWeiAnYao.xcodeproj">
+            ReferencedContainer = "container:Framework.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
