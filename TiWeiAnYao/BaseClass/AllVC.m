@@ -26,7 +26,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.view.backgroundColor = Color_App_Background;
+    self.view.backgroundColor = Color_View_Back;
     self.edgesForExtendedLayout = UIRectEdgeNone;
     
 }

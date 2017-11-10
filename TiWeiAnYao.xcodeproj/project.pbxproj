@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		CF9925A17FA7FAEAF9C41620 /* libPods-TiWeiAnYao.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 76AE2C78E0C685E6AB7B96A3 /* libPods-TiWeiAnYao.a */; };
+		FE4E01D71FB40689005E1447 /* TestPageController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE4E01D61FB40689005E1447 /* TestPageController.m */; };
+		FE4E01DA1FB406C3005E1447 /* FirstController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE4E01D91FB406C3005E1447 /* FirstController.m */; };
+		FE4E01DD1FB406D7005E1447 /* SecendController.m in Sources */ = {isa = PBXBuildFile; fileRef = FE4E01DC1FB406D7005E1447 /* SecendController.m */; };
 		FE540C011FB2B03D0001AA4C /* ACommunityVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FE540BF61FB2B03D0001AA4C /* ACommunityVC.m */; };
 		FE540C021FB2B03D0001AA4C /* AHomeVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FE540BFA1FB2B03D0001AA4C /* AHomeVC.m */; };
 		FE540C031FB2B03D0001AA4C /* PersonalCenterVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FE540BFD1FB2B03D0001AA4C /* PersonalCenterVC.m */; };
@@ -24,12 +27,19 @@
 		FE7A4ECA1ED3FEFA008A9A5C /* PullRefreshVC.m in Sources */ = {isa = PBXBuildFile; fileRef = FE7A4EC91ED3FEFA008A9A5C /* PullRefreshVC.m */; };
 		FEB8BB3D1FB2E0650032A1C8 /* GGBannerCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB8BB3A1FB2E0650032A1C8 /* GGBannerCollectionViewCell.m */; };
 		FEB8BB3E1FB2E0650032A1C8 /* GGBannerView.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB8BB3C1FB2E0650032A1C8 /* GGBannerView.m */; };
+		FEB8BB451FB30EDD0032A1C8 /* Alert.m in Sources */ = {isa = PBXBuildFile; fileRef = FEB8BB441FB30EDD0032A1C8 /* Alert.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		1C019F811D62667E893FBEEE /* Pods-TiWeiAnYao.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TiWeiAnYao.release.xcconfig"; path = "Pods/Target Support Files/Pods-TiWeiAnYao/Pods-TiWeiAnYao.release.xcconfig"; sourceTree = "<group>"; };
 		759EB653D0002FED28277067 /* Pods-TiWeiAnYao.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TiWeiAnYao.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TiWeiAnYao/Pods-TiWeiAnYao.debug.xcconfig"; sourceTree = "<group>"; };
 		76AE2C78E0C685E6AB7B96A3 /* libPods-TiWeiAnYao.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-TiWeiAnYao.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE4E01D51FB40689005E1447 /* TestPageController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestPageController.h; sourceTree = "<group>"; };
+		FE4E01D61FB40689005E1447 /* TestPageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestPageController.m; sourceTree = "<group>"; };
+		FE4E01D81FB406C3005E1447 /* FirstController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstController.h; sourceTree = "<group>"; };
+		FE4E01D91FB406C3005E1447 /* FirstController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstController.m; sourceTree = "<group>"; };
+		FE4E01DB1FB406D7005E1447 /* SecendController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecendController.h; sourceTree = "<group>"; };
+		FE4E01DC1FB406D7005E1447 /* SecendController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecendController.m; sourceTree = "<group>"; };
 		FE540BF51FB2B03D0001AA4C /* ACommunityVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ACommunityVC.h; sourceTree = "<group>"; };
 		FE540BF61FB2B03D0001AA4C /* ACommunityVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ACommunityVC.m; sourceTree = "<group>"; };
 		FE540BF91FB2B03D0001AA4C /* AHomeVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AHomeVC.h; sourceTree = "<group>"; };
@@ -69,6 +79,8 @@
 		FEB8BB3A1FB2E0650032A1C8 /* GGBannerCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGBannerCollectionViewCell.m; sourceTree = "<group>"; };
 		FEB8BB3B1FB2E0650032A1C8 /* GGBannerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GGBannerView.h; sourceTree = "<group>"; };
 		FEB8BB3C1FB2E0650032A1C8 /* GGBannerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GGBannerView.m; sourceTree = "<group>"; };
+		FEB8BB431FB30EDD0032A1C8 /* Alert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Alert.h; sourceTree = "<group>"; };
+		FEB8BB441FB30EDD0032A1C8 /* Alert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Alert.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +112,33 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		FE4E01D21FB4066E005E1447 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FE4E01D51FB40689005E1447 /* TestPageController.h */,
+				FE4E01D61FB40689005E1447 /* TestPageController.m */,
+				FE4E01D81FB406C3005E1447 /* FirstController.h */,
+				FE4E01D91FB406C3005E1447 /* FirstController.m */,
+				FE4E01DB1FB406D7005E1447 /* SecendController.h */,
+				FE4E01DC1FB406D7005E1447 /* SecendController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		FE4E01D31FB4066E005E1447 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FE4E01D41FB4066E005E1447 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		FE540BF41FB2B03D0001AA4C /* Communty */ = {
 			isa = PBXGroup;
 			children = (
@@ -112,6 +151,10 @@
 		FE540BF71FB2B03D0001AA4C /* Custom */ = {
 			isa = PBXGroup;
 			children = (
+				FEB8BB3F1FB30CDE0032A1C8 /* AlertView */,
+				FEB8BB401FB30CDE0032A1C8 /* Button */,
+				FEB8BB411FB30CDE0032A1C8 /* LoginTextField */,
+				FEB8BB421FB30CDE0032A1C8 /* StarLevel */,
 				FEB8BB381FB2E0650032A1C8 /* GGBannerView */,
 			);
 			path = Custom;
@@ -120,6 +163,9 @@
 		FE540BF81FB2B03D0001AA4C /* Home */ = {
 			isa = PBXGroup;
 			children = (
+				FE4E01D21FB4066E005E1447 /* Controllers */,
+				FE4E01D31FB4066E005E1447 /* Model */,
+				FE4E01D41FB4066E005E1447 /* View */,
 				FE540BF91FB2B03D0001AA4C /* AHomeVC.h */,
 				FE540BFA1FB2B03D0001AA4C /* AHomeVC.m */,
 			);
@@ -225,10 +271,6 @@
 		FE7A4E961ED3D62B008A9A5C /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				FE7A4EA01ED3D7BB008A9A5C /* 首页 */,
-				FE7A4E9F1ED3D7BB008A9A5C /* 社区 */,
-				FE7A4E9E1ED3D7BB008A9A5C /* 购物车 */,
-				FE7A4E9D1ED3D7BB008A9A5C /* 个人中心 */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -236,41 +278,13 @@
 		FE7A4E971ED3D62B008A9A5C /* System */ = {
 			isa = PBXGroup;
 			children = (
-				FE7A4EB01ED3F226008A9A5C /* 宏定义 */,
-				FE7A4EB71ED3F226008A9A5C /* 系统 */,
+				FE7A4EB01ED3F226008A9A5C /* Macros */,
+				FE7A4EB71ED3F226008A9A5C /* Functions */,
 			);
 			path = System;
 			sourceTree = "<group>";
 		};
-		FE7A4E9D1ED3D7BB008A9A5C /* 个人中心 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "个人中心";
-			sourceTree = "<group>";
-		};
-		FE7A4E9E1ED3D7BB008A9A5C /* 购物车 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "购物车";
-			sourceTree = "<group>";
-		};
-		FE7A4E9F1ED3D7BB008A9A5C /* 社区 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "社区";
-			sourceTree = "<group>";
-		};
-		FE7A4EA01ED3D7BB008A9A5C /* 首页 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "首页";
-			sourceTree = "<group>";
-		};
-		FE7A4EB01ED3F226008A9A5C /* 宏定义 */ = {
+		FE7A4EB01ED3F226008A9A5C /* Macros */ = {
 			isa = PBXGroup;
 			children = (
 				FE7A4EB31ED3F226008A9A5C /* Macros.h */,
@@ -280,10 +294,11 @@
 				FE7A4EB51ED3F226008A9A5C /* PathMacros.h */,
 				FE7A4EB61ED3F226008A9A5C /* UtilsMacros.h */,
 			);
+			name = Macros;
 			path = "宏定义";
 			sourceTree = "<group>";
 		};
-		FE7A4EB71ED3F226008A9A5C /* 系统 */ = {
+		FE7A4EB71ED3F226008A9A5C /* Functions */ = {
 			isa = PBXGroup;
 			children = (
 				FE7A4EB81ED3F24E008A9A5C /* MyInitManager.h */,
@@ -293,6 +308,7 @@
 				FE7A4EBF1ED3FC33008A9A5C /* SystemFunction.h */,
 				FE7A4EC01ED3FC33008A9A5C /* SystemFunction.m */,
 			);
+			name = Functions;
 			path = "系统";
 			sourceTree = "<group>";
 		};
@@ -305,6 +321,36 @@
 				FEB8BB3C1FB2E0650032A1C8 /* GGBannerView.m */,
 			);
 			path = GGBannerView;
+			sourceTree = "<group>";
+		};
+		FEB8BB3F1FB30CDE0032A1C8 /* AlertView */ = {
+			isa = PBXGroup;
+			children = (
+				FEB8BB431FB30EDD0032A1C8 /* Alert.h */,
+				FEB8BB441FB30EDD0032A1C8 /* Alert.m */,
+			);
+			path = AlertView;
+			sourceTree = "<group>";
+		};
+		FEB8BB401FB30CDE0032A1C8 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		FEB8BB411FB30CDE0032A1C8 /* LoginTextField */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = LoginTextField;
+			sourceTree = "<group>";
+		};
+		FEB8BB421FB30CDE0032A1C8 /* StarLevel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = StarLevel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -432,16 +478,20 @@
 				FE540C041FB2B03D0001AA4C /* APurchaseVC.m in Sources */,
 				FEB8BB3E1FB2E0650032A1C8 /* GGBannerView.m in Sources */,
 				FE7A4E811ED3D149008A9A5C /* AppDelegate.m in Sources */,
+				FE4E01D71FB40689005E1447 /* TestPageController.m in Sources */,
 				FE540C031FB2B03D0001AA4C /* PersonalCenterVC.m in Sources */,
 				FEB8BB3D1FB2E0650032A1C8 /* GGBannerCollectionViewCell.m in Sources */,
 				FE540C011FB2B03D0001AA4C /* ACommunityVC.m in Sources */,
 				FE7A4EC11ED3FC33008A9A5C /* SystemFunction.m in Sources */,
 				FE7A4EC71ED3FEC6008A9A5C /* AllVC.m in Sources */,
 				FE7A4E7E1ED3D148008A9A5C /* main.m in Sources */,
+				FEB8BB451FB30EDD0032A1C8 /* Alert.m in Sources */,
 				FE7A4EBE1ED3FBE6008A9A5C /* MyRequestFunction.m in Sources */,
 				FE540C021FB2B03D0001AA4C /* AHomeVC.m in Sources */,
+				FE4E01DA1FB406C3005E1447 /* FirstController.m in Sources */,
 				FE7A4EBA1ED3F24E008A9A5C /* MyInitManager.m in Sources */,
 				FE7A4ECA1ED3FEFA008A9A5C /* PullRefreshVC.m in Sources */,
+				FE4E01DD1FB406D7005E1447 /* SecendController.m in Sources */,
 				FE540C0A1FB2BB7E0001AA4C /* UIColor+HexString.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -28,6 +28,7 @@
 #import <Reachability/Reachability.h>
 #import <DZNEmptyDataSet/UIScrollView+EmptyDataSet.h>
 #import <iCarousel/iCarousel.h>
+#import <MMPopupView/MMPopupView.h>
 
 #import "UIColor+HexString.h"
 #import "SystemFunction.h"

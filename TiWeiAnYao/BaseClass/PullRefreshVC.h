@@ -20,6 +20,6 @@
 
 @property (nonatomic,strong)UITableView *mytable;
 
-- (void)forbidPullRefresh;
+//- (void)forbidPullRefresh;
 
 @end

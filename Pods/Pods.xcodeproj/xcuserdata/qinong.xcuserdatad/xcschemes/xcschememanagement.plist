@@ -29,12 +29,32 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>JSONModel.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MBProgressHUD.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>MJExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>MJRefresh.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>MMPopupView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Mantle.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -69,6 +89,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>TYPagerController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>iCarousel.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -82,7 +107,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>08548751347EA8EF36F903EF6DB86821</key>
+		<key>0AE01D8C7B8E8D51F62DA12F6E90AD87</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -92,7 +117,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>335D03F5B5877901D5E913E8DFEA2805</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>41AA470CD47CF2333F60ADFF42C4E032</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>5437890023F30CA85DFCA260CA914D48</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>55E3CFFEDC2629EE0C17B343EC00595B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -102,7 +142,12 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7019F039166A6C22113DAFB154DCBDC3</key>
+		<key>6158D97826D5BF357CE1AC8C83B2248D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6197AD9A3F2D2C21A8F9813990D2BC41</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -117,12 +162,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>91864E7BD7818CDF9D7E10CD01F65D14</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>969605CA88CBAD387BA7BAF785D5B114</key>
+		<key>9AB9482B7D8921BC8FFE392E300D9475</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -137,12 +177,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DC7A51F0B370F9976D21032BDDB7222E</key>
+		<key>A316B54C67E947D23CECD230FA5BFAEF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FD994F243BFD0209B221A6E36FF0699B</key>
+		<key>C9D64427594C216F89E03F20512F1636</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D07D474B199FBF6F1E9C0D84C2ACDDEF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DC7A51F0B370F9976D21032BDDB7222E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
